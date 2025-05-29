@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sgtodo-list';
+//   constructor() {
+//     setTimeout(() => {
+//       this.title = 'sgtodo-list - Updated';
+//     }, 2000);
+// }
 }
